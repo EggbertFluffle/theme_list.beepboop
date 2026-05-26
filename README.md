@@ -2,6 +2,8 @@
 
 A list of public themes for [beepboop.nvim](https://github.com/EggbertFluffe/beepboop.nvim).
 
+You're encouraged to add you own themes to the list to share by opening an issue!
+
 | Theme                                                                        | Description          |
 | ---------------------------------------------------------------------------- | -------------------- |
 | [mingleburb.beepboop](https://github.com/EggbertFluffle/mingleburb.beepboop) | Minecraft noises     |
